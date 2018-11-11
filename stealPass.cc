@@ -17,8 +17,6 @@ void setup()
   // Wait 500ms
   delay(500);
 
-  delay(500);
-
   Keyboard.press(KEY_LEFT_GUI);
   Keyboard.press(' ');
   Keyboard.releaseAll();
